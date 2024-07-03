@@ -1,0 +1,2 @@
+eval_loss,eval_doc_accuracy,eval_doc_f1,eval_doc_precision,eval_doc_recall,eval_token_accuracy,eval_token_f1,eval_token_precision,eval_token_recall,eval_runtime,eval_samples_per_second,eval_steps_per_second
+1.0584931373596191,0.695,0.6897085086489014,0.7008627474800707,0.695,0.9018659295093296,0.8892215406649001,0.8853823742617858,0.9018659295093296,48.7869,4.099,0.512

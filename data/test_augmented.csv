@@ -1,0 +1,201 @@
+tokens,ner_tags,sentence_label
+"['DETROIT', '5', '8', '0', '263', '289']","[3, 0, 0, 0, 0, 0]",4
+"['Syria', 'had', 'taken', 'the', 'lead', 'from', 'their', 'first', 'serious', 'attack', 'in', 'the', 'seventh', 'minute', '.']","[5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1
+"['After', 'these', 'steps', ',', 'the', 'president', ""'s"", 'condition', 'signigicantly', 'improved', '.', '""']","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",4
+"['It', 'recorded', 'the', 'day', ""'s"", 'low', 'of', '$', '15.475', 'and', 'the', 'day', ""'s"", 'high', 'of', '$', '15.725', '.']","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",2
+"['Entire', 'social', 'infrastructures', 'in', 'the', 'icy', 'Far', 'North', 'where', 'Norilsk', 'is', 'based', 'depend', 'on', 'the', 'company', ',', 'and', 'Moscow', 'has', 'said', 'it', 'has', 'no', 'finances', 'to', 'resettle', 'hundreds', 'of', 'thousands', 'of', 'people', '--', 'an', 'expenditure', 'which', 'could', 'far', 'outstrip', 'Norilsk', ""'s"", 'debts', '.']","[0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0]",2
+"['Livingston', '16', '10', '4', '2', '27', '13', '34']","[3, 0, 0, 0, 0, 0, 0, 0]",4
+"['Indonesian', 'keeper', 'Hendro', 'Kartiko', 'produced', 'a', 'string', 'of', 'fine', 'saves', 'to', 'prevent', 'the', 'Koreans', 'increasing', 'their', 'lead', '.']","[7, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 0, 0, 0, 0]",1
+"['Spanish', 'first', 'division', 'match', 'between', 'Real', 'Madrid', 'and', 'Barcelona', ':']","[7, 0, 0, 0, 0, 3, 4, 0, 3, 0]",1
+"['6.', 'Alexandre', 'Mikhailov', '(', 'Russia', ')', '202.59']","[0, 1, 2, 0, 5, 0, 0]",1
+"['MANTUA', ',', 'Italy', '1996-12-06']","[0, 0, 5, 0]",4
+"['Thousands', 'were', 'killed', 'or', 'imprisoned', '.']","[0, 0, 0, 0, 0, 0]",0
+"['West', 'Indies', 'were', '53', 'for', 'two', 'in', '15', 'overs', 'when', 'rain', 'stopped', 'play', 'at', 'the', 'Melbourne', 'Cricket', 'Ground', 'after', 'captain', 'Courtney', 'Walsh', 'won', 'the', 'toss', 'and', 'elected', 'to', 'bat', '.']","[5, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 6, 6, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0]",1
+"['Deportivo', 'Coruna', '15', '9', '6', '0', '23', '7', '33']","[3, 4, 0, 0, 0, 0, 0, 0, 0]",1
+"['Airdrieonians', '16', '6', '8', '2', '26', '16', '26']","[3, 0, 0, 0, 0, 0, 0, 0]",1
+"['G.', 'Blewett', 'not', 'out', '57']","[1, 2, 0, 0, 0]",1
+"['Torquay', '22', '8', '4', '10', '22', '24', '28']","[3, 0, 0, 0, 0, 0, 0, 0]",1
+"['Bordeaux', '20', '9', '7', '4', '29', '21', '34']","[3, 0, 0, 0, 0, 0, 0, 0]",1
+"['Russ', 'Berrie', 'and', 'Co', 'Inc', 'said', 'on', 'Friday', 'that', 'A.', 'Curts', 'Cooke', 'will', 'retire', 'as', 'president', 'and', 'chief', 'operating', 'officer', 'effective', 'July', '1', ',', '1997', '.']","[3, 4, 4, 4, 4, 0, 0, 0, 0, 1, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",2
+"['Returns', 'on', 'Treasuries', 'were', 'also', 'in', 'negative', 'territory', 'at', 'minus', '0.24', 'percent', ',', 'the', 'poorest', 'result', 'after', 'Canada', 'and', 'British', 'gilts', 'which', 'lost', '0.28', 'percent', '.']","[0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 7, 0, 0, 0, 0, 0, 0]",2
+"['Aly', 'Ashour', '7', ',', '56', 'penalty', ',', 'Mohamed', 'Ouda', '24', ',', '73']","[1, 2, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0]",1
+"['W', 'L', 'T', 'GF', 'GA', 'PTS']","[0, 0, 0, 0, 0, 0]",4
+"['SOCCER', '-', 'JAPAN', 'GET', 'LUCKY', 'WIN', ',', 'CHINA', 'IN', 'SURPRISE', 'DEFEAT', '.']","[0, 0, 5, 0, 0, 0, 0, 1, 0, 0, 0, 0]",1
+"['WESTERN', 'DIVISION']","[0, 0]",4
+"['LONDON', '1996-12-07']","[5, 0]",0
+"['That', 'is', 'why', 'this', 'is', 'so', 'emotional', 'a', 'night', 'for', 'me', ',', '""', 'Charlton', 'said', '.']","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",4
+"['Cambridge', '22', '13', '3', '6', '33', '27', '42']","[3, 0, 0, 0, 0, 0, 0, 0]",4
+"['""', 'Today', 'we', 'are', 'left', 'with', 'a', 'ruinous', 'wreck', 'beyond', 'salvage', 'and', 'a', 'continuing', 'pall', 'of', 'doubt', 'and', 'suspicion', 'hanging', 'over', 'our', 'diplomatic', 'service', ',', '""', 'opposition', 'foreign', 'affairs', 'spokesman', 'Laurie', 'Brereton', 'said', '.']","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0]",0
+"['6.', 'Regina', 'Haeusl', '(', 'Germany', ')', '66']","[0, 1, 2, 0, 5, 0, 0]",4
+"['""', 'The', 'development', 'objective', 'for', 'the', 'rubber', 'plantation', 'industry', 'will', 'be', 'to', 'increase', 'production', 'to', 'the', 'best', 'extent', 'possibly', 'with', 'a', 'view', 'to', 'minimising', 'imports', 'of', 'natural', 'rubber', ',', '""', 'he', 'said', '.']","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",2
+"['MIAMI', '14', '4', '.778', '-']","[3, 0, 0, 0, 0]",1
+"['10,719']",[0],4
+"['DETROIT', '15', '9', '4', '81', '53', '34']","[3, 0, 0, 0, 0, 0, 0]",4
+"['Results', 'of', 'National', 'Basketball']","[0, 0, 3, 4]",1
+"['MIDWEST', 'DIVISION']","[0, 0]",4
+"['Curr', 'Wk', 'Yr', 'Ago', 'Curr', 'Wk', 'Yr', 'to', 'Date', 'Yr', 'Ago']","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",4
+"['CHICAGO', '1996-12-06']","[5, 0]",4
+"['Asked', 'if', 'the', 'Indonesian', 'ambassador', 'to', 'Norway', 'would', 'have', 'attended', 'the', 'ceremony', 'if', 'only', 'Belo', 'had', 'been', 'involved', ',', 'Alatas', 'replied', ':', '""', 'Probably', ',', 'yes', ',', 'but', 'that', 'is', 'a', 'hypothetical', 'question', '.', '""']","[0, 0, 0, 7, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",4
+"['""', 'All', 'four', 'attackers', 'were', 'apprehended', 'and', 'two', 'have', 'been', 'detained', ',', '""', 'the', 'spokesman', 'added']","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",4
+"['He', 'was', 'the', 'most', 'dominant', 'offensive', 'lineman', 'in', 'the', 'country', 'and', 'also', 'played', 'defensive', 'line', 'in', 'goal-line', 'situations', '.']","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1
+"['Rayo', 'Vallecano', '15', '5', '5', '5', '21', '19', '20']","[3, 4, 0, 0, 0, 0, 0, 0, 0]",1
+"['Paul', 'Justin', ',', 'starting', 'for', 'the', 'sidelined', 'Jim', 'Harbaugh', ',', 'was', '14-of-23', 'for', '144', 'yards', 'and', 'a', 'touchdown', 'for', 'the', 'the', 'Colts', ',', 'who', 'played', 'their', 'last', 'home', 'game', 'of', 'the', 'season', '.']","[1, 2, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1
+"['But', 'in', 'February', '1993', 'Leszic', 'Betcher', ',', 'was', 'shot', 'and', 'killed', 'after', 'answering', 'a', 'knock', 'at', 'the', 'door', 'of', 'his', 'Sydney', 'home', '.', '""']","[0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0]",4
+"['PHOENIX', '9', '13', '4', '61', '74', '22']","[3, 0, 0, 0, 0, 0, 0]",4
+['Women'],[0],4
+"['Court', 'ejects', 'head', 'of', 'Australian', 'child-sex', 'inquiry', '.']","[0, 0, 0, 0, 7, 0, 0, 0]",0
+"['Limoges', '(', 'France', ')', '9', '3', '6', '12']","[3, 0, 5, 0, 0, 0, 0, 0]",4
+"['11.', 'Florence', 'Masnada', '(', 'France', ')', '133']","[0, 5, 1, 0, 5, 0, 0]",1
+"['Three', 'were', 'listed', 'in', 'poor', 'condition', '.']","[0, 0, 0, 0, 0, 0, 0]",4
+"['Overall', 'women', ""'s"", 'World', 'Cup', 'standings', 'leaders', 'after']","[0, 0, 0, 7, 8, 0, 0, 0]",1
+"['for', ',', 'against', ',', 'points', ')', ':']","[0, 0, 0, 0, 0, 0, 0]",4
+"['Year', 'to', 'March', '31', ',', '1997']","[0, 0, 0, 0, 0, 0]",4
+"['Delphis', 'Hanover', 'weekly', 'municipal', 'bond', 'yields', '.']","[3, 4, 0, 0, 0, 0, 0]",2
+"['Barcelona', '16', '10', '4', '2', '46', '21', '34']","[3, 0, 0, 0, 0, 0, 0, 0]",1
+"['Hermawan', 'Susanto', '(', 'Indonesia', ')', 'beat', 'Soren', 'B.', 'Nielsen', '(', 'Denmark', ')', '15-8', '15-2']","[1, 2, 0, 5, 0, 0, 1, 2, 2, 0, 5, 0, 0, 0]",1
+"['UNITED', 'NATIONS', '1996-12-06']","[3, 4, 0]",0
+"['White', 'House', 'spokesman', 'Mike', 'McCurry', 'said', 'Clinton', '""', 'plans', 'to', 'have', 'regular', 'news', 'conferences', '""', 'during', 'his', 'second', 'term', '.']","[5, 6, 0, 1, 2, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",0
+"['""', 'Though', 'schemes', 'designed', 'to', 'realise', 'further', 'increases', 'in', 'the', 'production', 'of', 'natural', 'rubber', 'are', 'being', 'operated', 'successfully', ',', 'the', 'demand-supply', 'gap', 'is', 'expected', 'to', 'widen', ',', '""', 'he', 'said', '.']","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",2
+"['TOKYO', '1996-12-06']","[5, 0]",0
+"['German', 'Santa', 'in', 'bank', 'nearly', 'gets', 'arrested', '.']","[7, 1, 0, 0, 0, 0, 0, 0]",4
+"['Saldanha', 'said', 'operations', 'fell', '30', 'percent', 'immediately', 'after', 'that', 'case', 'but', 'the', 'rate', 'was', 'back', 'to', 'normal', 'now', '.']","[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",2
+"['Jaegal', 'Sung-Yeol', '(', 'South', 'Korea', ')', '37.46', ';', '3', '.']","[1, 2, 0, 5, 6, 0, 0, 0, 0, 0]",4
+"['CHICAGO', '12', '12', '3', '71', '67', '27']","[3, 0, 0, 0, 0, 0, 0]",4
+"['CHONJU', ',', 'South', 'Korea', '1996-12-07']","[5, 0, 5, 6, 0]",0
+"['Real', 'Madrid', '16', '11', '5', '0', '32', '12', '38']","[3, 4, 0, 0, 0, 0, 0, 0, 0]",1
+"['U.S.', 'energy', 'futures', 'added', 'to', 'floor', 'session', 'gains', 'in', 'light', 'NYMEX', 'ACCESS', 'trade', 'Thursday', ',', 'as', 'forecasts', 'for', 'colder', 'temperatures', 'in', 'distillate-hungry', 'Northeastern', 'markets', 'raised', 'supply', 'concerns', '.']","[5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",2
+"['West', 'Indies', 'captain', 'Courtney', 'Walsh', 'elected', 'to', 'bat', 'after', 'winning', 'the', 'toss', 'in', 'the', 'first', 'match', 'in', 'the', 'World', 'Series', 'limited', 'overs', 'competition', 'against', 'Australia', 'at', 'the', 'Melbourne', 'Cricket', 'Ground', 'on', 'Friday', '.']","[5, 6, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 8, 0, 0, 0, 0, 5, 0, 0, 5, 0, 0, 0, 0, 0]",1
+"['Indonesia', ':', '20', '-', 'Hendro', 'Kartiko', ';', '2', '-', 'Agung', 'Setyabudi', ';', '3', '-', 'Suwandi', 'Siswoyo', ';', '4', '-', 'Yeyen', 'Tumera', ';', '5', '-', 'Aples', 'Tecuari', ';', '6', '-', 'Sudiriman', ';', '7', '-', 'Widodo', 'Gahyo', 'Purta', ';', '8', '-', 'Ronny', 'Wabia', ';', '11', '-', 'Bima', 'Sakti', ';', '12', '-', 'Chris', 'Yarangga', '(', '15', '-', 'Francis', 'Wewengken', '36', ')', ';', '16', '-', 'Marzuki', 'Badriawan', '.']","[5, 0, 0, 0, 1, 2, 0, 0, 0, 1, 2, 0, 0, 0, 1, 2, 0, 0, 0, 1, 2, 0, 0, 0, 1, 2, 0, 0, 0, 1, 0, 0, 0, 1, 2, 2, 0, 0, 0, 1, 2, 0, 0, 0, 1, 2, 0, 0, 0, 1, 2, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 1, 2, 0]",4
+"['SOCCER', '-', 'BALKAN', 'STRIKE', 'FORCE', 'WIN', 'OLD', 'FIRM', 'GAME', 'FOR', 'REAL', '.']","[0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 3, 0]",1
+"['CRICKET', '-', 'JONES', 'HITS', 'CENTURY', 'AS', 'VICTORIA', 'FIGHT', 'BACK', '.']","[0, 0, 1, 0, 0, 0, 3, 0, 0, 0]",1
+"['Cuttitta', 'announced', 'his', 'retirement', 'after', 'the', '1995', 'World', 'Cup', ',', 'where', 'he', 'took', 'issue', 'with', 'being', 'dropped', 'from', 'the', 'Italy', 'side', 'that', 'faced', 'England', 'in', 'the', 'pool', 'stages', '.']","[1, 0, 0, 0, 0, 0, 7, 8, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 5, 0, 0, 0, 0, 0]",1
+"['Southampton', '17', '3', '4', '10', '24', '32', '13']","[3, 0, 0, 0, 0, 0, 0, 0]",1
+"['CALGARY', '10', '16', '2', '65', '77', '22']","[3, 0, 0, 0, 0, 0, 0]",4
+"['""', 'There', 'are', '500', 'million', 'messages', 'transmitted', 'through', 'the', 'Internet', 'everyday', ',', '""', 'said', 'Tim', 'Casey', 'of', 'the', 'U.S.-based', 'MCI', 'Communications', 'Corporation', '.', '""']","[0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 0, 0, 0, 0, 1, 2, 0, 0, 7, 3, 4, 4, 0, 0]",3
+"['It', 'was', 'not', 'known', 'if', 'other', 'candidates', 'would', 'step', 'forward', '.']","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",4
+"['But', 'later', ',', 'rates', 'dropped', 'and', 'closed', 'at', '22.00', '/', '22.25', 'as', 'a', 'large', 'bank', 'finished', 'borrowing', 'money', '.']","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",2
+"['PHILADELPHIA', '8', '6', '0', '313', '302']","[3, 0, 0, 0, 0, 0]",4
+"['RUGBY', 'UNION', '-', 'CAMPESE', 'SIGNS', 'OFF', 'WITH', 'TRY', 'IN', 'WALLABY', 'ROMP', '.']","[3, 4, 0, 1, 0, 0, 0, 0, 0, 5, 0, 0]",1
+"['Tropical', 'air', 'carrying', 'sporadic', 'light', 'rains', 'over', 'the', 'coast', 'of', 'Quintana', 'Roo', 'state', '.']","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 6, 0, 0]",0
+"['10.', 'Katleen', 'Allais', '(', 'France', ')', '21.58']","[0, 1, 2, 0, 5, 0, 0]",1
+"['When', 'it', 'reconvened', ',', 'BJP', 'deputies', 'resumed', 'the', 'slogan-shouting', ',', 'and', 'deputy', 'speaker', 'Suraj', 'Bhan', 'suspended', 'work', 'until', 'Monday', '.']","[0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0]",1
+"['-', '36', 'barges', ',', 'two', 'each', 'week', 'May-August', ',', 'mid-Mississippi', 'offered', 'at', 'a', 'steady', '135', 'percent', ',', 'bid', 'at', '120', 'percent', '(', 'basis', 'one', 'each', 'week', ')', '.']","[0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",2
+"['Barnsley', '21', '10', '8', '3', '38', '26', '38']","[3, 0, 0, 0, 0, 0, 0, 0]",1
+"['""', 'Today', 'he', 'is', 'a', 'mobile', ',', 'energetic', 'man', 'with', 'lots', 'of', 'colour', 'in', 'his', 'cheeks', ',', '""', 'said', 'Yegor', 'Stroyev', 'who', 'met', 'Yeltsin', ',', '65', ',', 'on', 'Friday', 'at', 'a', 'country', 'residence', '.', '""']","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",4
+"['No', 'date', 'has', 'been', 'set', 'for', 'the', 'trial', 'of', 'the', 'men', ',', 'all', 'members', 'of', 'the', 'SLA', 'living', 'in', 'the', 'Israeli-held', 'zone', 'in', 'south', 'Lebanon', '.']","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 7, 0, 0, 0, 5, 0]",0
+"['WESTERN', 'DIVISION']","[0, 0]",4
+"['Feedlots', 'reporting', 'light', 'inquiry', 'from', 'buyers', '.']","[0, 0, 0, 0, 0, 0, 0]",2
+"['SEATTLE', '5', '8', '0', '250', '317']","[3, 0, 0, 0, 0, 0]",4
+"['Tampico', 'port', 'authorities', 'said', 'fishing', 'restrictions', 'were', 'in', 'place', 'in', 'an', 'area', 'adjacent', 'to', 'the', 'port', 'because', 'of', 'a', 'geophysical', 'study', 'being', 'carried', 'out', 'in', 'deep', 'waters', 'of', 'the', 'region', 'from', 'the', 'ship', 'Kenda', '.']","[5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 0]",4
+"['The', 'Australian', 'opposition', 'on', 'Friday', 'demanded', 'a', 'high-powered', 'investigation', 'into', 'paedophilia', 'in', 'the', 'Australian', 'diplomatic', 'service', 'after', 'the', 'federal', 'court', 'forced', 'the', 'head', 'of', 'the', 'existing', 'inquiry', 'to', 'stand', 'aside', '.']","[0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",4
+"['16.', 'Bibiana', 'Perez', '(', 'Italy', ')', '45']","[0, 1, 2, 0, 5, 0, 0]",4
+"['Leicester', '1', '(', 'Marshall', '78', ')', 'Blackburn', '1', '(', 'Sutton', '34', ')', '.']","[3, 0, 0, 1, 0, 0, 3, 0, 0, 1, 0, 0, 0]",1
+"['Sunderland', '1', '(', 'Melville', '83', ')', 'Wimbledon', '3', '(', 'Ekoku', '8', ',', '29', ',', 'Holdsworth']","[3, 0, 0, 1, 0, 0, 5, 0, 0, 1, 0, 0, 0, 0, 1]",1
+"['Bastia', '20', '9', '6', '5', '27', '22', '33']","[3, 0, 0, 0, 0, 0, 0, 0]",1
+"['Millet', 'unq', 'unq', '90', 'unq']","[0, 0, 0, 0, 0]",4
+"['Sporting', 'Gijon', '15', '4', '4', '7', '15', '22', '16']","[3, 0, 0, 0, 0, 0, 0, 0, 0]",1
+"['1-2', '.']","[0, 0]",2
+"['RIO', 'DE', 'JANEIRO', '1996-12-06']","[5, 6, 6, 0]",0
+"['K.', 'Benjamin', 'b', 'Warne', '8']","[1, 2, 0, 1, 0]",4
+"['Scottish', 'division', 'one']","[7, 0, 0]",1
+"['--', 'Bucharest', 'Newsroom', '40-1', '3120264']","[0, 3, 4, 0, 0]",4
+"['""', 'I', 'do', ""n't"", 'negotiate', ',', '""', 'he', 'said', '.', '""']","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",4
+"['ABIDJAN', '1996-12-06']","[5, 0]",0
+"['""', 'The', 'move', 'is', 'expected', 'to', 'give', 'a', 'shot', 'in', 'the', 'arm', 'to', 'the', 'economic', 'expansion', 'of', 'Guangxi', 'and', 'southwest', 'China', 'as', 'a', 'whole', ',', '""', 'the', 'agency', 'said', 'but', 'gave', 'no', 'further', 'details', '.']","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",2
+"['Organisers', 'hope', 'to', 'get', 'that', 'run', 'in', 'on', 'Saturday', 'morning', ',', 'conditions', 'permitting', ',', 'and', 'stage', 'the', 'race', 'later', 'in', 'the', 'day', 'or', 'on', 'Sunday', '.']","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1
+"['(', '52.92', '/', '53.21', ')']","[0, 0, 0, 0, 0]",2
+"['NFL', 'AMERICAN', 'FOOTBALL-COLTS', 'CLOBBER', 'EAGLES', 'TO', 'STAY', 'IN', 'PLAYOFF', 'HUNT', '.']","[3, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0]",1
+"['Fortuna', 'Sittard', '17', '3', '7', '7', '14', '28', '16']","[3, 4, 0, 0, 0, 0, 0, 0, 0]",1
+"['N.', 'Astle', 'c', 'Ijaz', 'Ahmad', 'b', 'Salim', 'Malik', '20']","[1, 2, 0, 1, 2, 0, 1, 2, 0]",1
+"['A', 'Lebanese', 'military', 'court', 'on', 'Friday', 'sentenced', 'to', 'death', 'in', 'absentia', 'the', 'commander', 'of', 'Israel', ""'s"", 'surrogate', 'militia', 'in', 'south', 'Lebanon', 'on', 'treason', 'charges', '.']","[0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0]",0
+"['NEW', 'YORK', '1996-12-06']","[5, 6, 0]",4
+"['12/15/2007', '850M', '4.85', '4.85']","[0, 0, 0, 0]",2
+"['Squad', ':']","[0, 0]",1
+"['5', '-', 'Peter', 'van', 'Vossen', '(', 'Rangers', ')', ',', 'Gerry', 'Britton']","[0, 0, 1, 2, 2, 0, 3, 0, 0, 1, 2]",1
+"['The', 'Doetinchem', 'side', ',', 'dubbed', '""', 'The', 'Super', 'Peasants', '""', ',', 'are', 'one', 'of', 'the', 'surprise', 'packages', 'of', 'the', 'season', '.']","[0, 3, 0, 0, 0, 0, 3, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1
+"['Teams', ':']","[0, 0]",4
+"['Wasps', '15', 'Bristol', '13']","[3, 0, 3, 0]",1
+"['Government', 'disperses', 'protest', 'with', 'water', 'cannons', '.']","[0, 0, 0, 0, 0, 0, 0]",0
+"['Bowling', ':', 'Wasim', 'Akram', '8.1-0-43-3', '(', '9w', ',', '1nb', ')', ',', 'Waqar', 'Younis']","[0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 1, 2]",1
+"['Australia', '-', '15', '-', 'Matthew', 'Burke', ';', '14', '-', 'Joe', 'Roff', ',', '13', '-', 'Daniel', 'Herbert', ',', '12', '-', 'Tim', 'Horan', '(', 'captain', ')', ',', '11', '-', 'David', 'Campese', ';', '10', '-', 'Pat', 'Howard', ',', '9', '-', 'Sam', 'Payne', ';', '8', '-', 'Michael', 'Brial', ',', '7', '-', 'David', 'Wilson', ',', '6', '-', 'Owen', 'Finegan', ',', '5', '-', 'David', 'Giffin', ',', '4', '-', 'Tim', 'Gavin', ',', '3', '-', 'Andrew', 'Blades', ',', '2', '-', 'Marco', 'Caputo', ',', '1', '-', 'Dan', 'Crowley', '.']","[5, 0, 0, 0, 1, 2, 0, 0, 0, 1, 2, 0, 0, 0, 1, 2, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 1, 2, 0, 0, 0, 1, 2, 0, 0, 0, 1, 2, 0, 0, 0, 1, 2, 0, 0, 0, 1, 2, 0, 0, 0, 1, 2, 0, 0, 0, 1, 2, 0, 0, 0, 1, 2, 0, 0, 0, 1, 2, 0, 0, 0, 1, 2, 0]",1
+"['Petroleum', 'products', '4,605', '5,110', '30,589', '29,328']","[0, 0, 0, 0, 0, 0]",2
+"['207', 'Clinton', 'Whitelaw', '70', '70', '67', ',', 'Mark', 'Cayeux', '(', 'Zimbabwe', ')']","[0, 1, 2, 0, 0, 0, 0, 1, 2, 0, 5, 0]",1
+"['Rye', '44.6', '86.3', '2.3', '108.2', '119.2']","[0, 0, 0, 0, 0, 0]",4
+"['Nation', ':', 'Austria']","[0, 0, 5]",0
+"['On', 'Tuesday', 'and', 'Wednesday', ',', 'opposition', 'leader', 'Aung', 'San', 'Suu', 'Kyi', 'was', 'restricted', 'to', 'her', 'home', 'by', 'the', 'military', 'government', 'to', 'prevent', 'her', 'from', 'being', 'drawn', 'into', 'the', 'protests', '.']","[0, 0, 0, 0, 0, 0, 0, 1, 2, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",0
+"['Market', 'participants', 'have', 'kept', 'a', 'close', 'eye', 'on', 'Sakakibara', ',', 'chief', 'of', 'the', 'ministry', ""'s"", 'International', 'Finance', 'Bureau', ',', 'as', 'a', 'comment', 'he', 'made', 'in', 'November', 'after', 'the', 'dollar', 'hit', 'this', 'year', ""'s"", 'high', 'of', '114.92', 'yen', 'pushed', 'the', 'currency', 'down', 'sharply', '.']","[0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 3, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",2
+"['New', 'Zealand', 'innings']","[5, 6, 0]",1
+"['Bolger', 'said', 'he', 'expected', 'a', 'government', 'to', 'be', 'formed', 'by', 'Thursday', '.']","[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",0
+"['SINGAPORE', '1996-12-06']","[5, 0]",0
+"['The', 'street', 'protests', 'were', 'the', 'biggest', 'seen', 'in', 'the', 'capital', 'since', 'the', 'student-led', 'pro-democracry', 'demonstrations', 'of', 'September', '1988', 'when', 'the', 'junta', 'crushed', 'the', 'uprising', '.']","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",0
+"['Takuya', 'Takagi', 'headed', 'the', 'winner', 'in', 'the', '88th', 'minute', 'of', 'the', 'group', 'C', 'game', 'after', 'goalkeeper', 'Salem', 'Bitar', 'spoiled', 'a', 'mistake-free', 'display', 'by', 'allowing', 'the', 'ball', 'to', 'slip', 'under', 'his', 'body', '.']","[1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1
+"['Valladolid', '15', '7', '3', '5', '19', '18', '24']","[3, 0, 0, 0, 0, 0, 0, 0]",1
+"['The', 'consumption', 'tax', 'will', 'be', 'raised', 'to', 'five', 'percent', 'from', 'three', 'percent', 'from', 'April', '1', '.']","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",2
+"['Sporting', 'Gijon', '15', '4', '4', '7', '15', '22', '16']","[3, 0, 0, 0, 0, 0, 0, 0, 0]",1
+"['Extras', '(', 'lb-8', 'nb-2', 'w-14', ')', '24']","[0, 0, 0, 0, 0, 0, 0]",1
+"['Kinshasa', 'opposes', 'airdrops', ',', 'apparently', 'because', 'the', 'food', 'could', 'fall', 'into', 'the', 'hands', 'of', 'the', 'rebels', 'and', 'their', 'local', 'supporters', '.']","[5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",0
+"['Saturday', '12/07/96', '(', 'est', ')', '38,000', '0', '18,000']","[0, 0, 0, 0, 0, 0, 0, 0]",4
+"['3.', 'Carole', 'Montillet', '(', 'France', ')', '1:18.11']","[0, 1, 2, 0, 5, 0, 0]",1
+"['SOCCER', '-', 'FRENCH', 'LEAGUE', 'STANDINGS', '.']","[0, 0, 7, 0, 0, 0]",1
+"['Paul', 'Crofts', ',', '33', ',', 'and', 'an', 'accomplice', 'were', 'contracted', 'to', 'shoot', 'a', 'man', ',', 'identified', 'only', 'as', 'Tony', ',', 'in', 'the', 'leg', 'to', 'punish', 'him', 'for', 'his', 'misconduct', 'with', 'a', 'female', 'friend', 'of', 'the', 'contractor', ',', 'the', 'New', 'South', 'Wales', 'Supreme', 'Court', 'was', 'told', '.']","[1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 4, 4, 4, 4, 0, 0, 0]",4
+"['SOCCER', '-', 'PSV', 'HIT', 'VOLENDAM', 'FOR', 'SIX', '.']","[0, 0, 3, 0, 3, 0, 0, 0]",1
+"['Women', ""'s"", 'singles']","[0, 0, 0]",1
+"['Athletic', 'Bilbao', '15', '7', '4', '4', '28', '22', '25']","[3, 4, 0, 0, 0, 0, 0, 0, 0]",1
+"['Clarke', 'denied', 'on', 'Thursday', 'he', 'had', 'threatened', 'to', 'resign', 'and', 'said', 'his', 'position', 'on', 'the', 'single', 'currency', 'was', 'in', 'tune', 'with', 'that', 'of', 'Prime', 'Minister', 'John', 'Major', '.']","[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0]",2
+"['Van', 'Boxmeer', 'said', 'the', 'tough', 'competition', 'had', 'prevented', 'Zywiec', 'from', 'raising', 'prices', 'in', 'line', 'with', 'inflation', ',', 'which', 'had', 'added', 'to', 'the', 'pressure', 'on', 'the', 'firm', ""'s"", 'margins', '.']","[1, 2, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",2
+"['Rayo', 'Vallecano', '15', '5', '5', '5', '21', '19', '20']","[3, 4, 0, 0, 0, 0, 0, 0, 0]",1
+"['Liberian', 'striker', 'George', 'Weah', 'makes', 'a', 'welcome', 'return', 'for', 'Milan', 'alongside', 'Roberto', 'Baggio', ',', 'with', 'Montenegrin', 'Dejan', 'Savicevic', 'in', 'midfield', '.']","[7, 0, 1, 2, 0, 0, 0, 0, 0, 3, 0, 1, 2, 0, 0, 7, 1, 2, 0, 0, 0]",1
+"['But', 'he', 'said', 'the', 'WTO', ""'s"", 'organisational', 'structure', 'made', 'it', 'difficult', 'to', 'impose', 'on', 'its', 'members', 'a', 'social', 'clause', 'such', 'as', 'that', 'called', 'for', 'by', 'the', 'ILO', '.']","[0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0]",3
+"['He', 'said', 'the', 'cargo', 'flight', 'originated', 'in', 'Grand', 'Rapids', ',', 'Michigan', ',', 'and', 'was', 'due', 'to', 'stop', 'at', 'Stephenville', 'for', 'refueling', 'before', 'going', 'to', 'Shannon', ',', 'Ireland', '.']","[0, 0, 0, 0, 0, 0, 0, 5, 6, 0, 5, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 5, 0, 5, 0]",4
+"['More', 'than', '21,000', 'people', 'have', 'died', 'in', 'the', '12-year-old', 'conflict', '.']","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",0
+"['VAIL', ',', 'Colorado', '1996-12-07']","[5, 0, 5, 0]",0
+"['""', 'Help', 'Italy', 'to', 'teach', ',', 'to', 'propose', 'a', 'capacity', 'for', 'strong', 'local', 'autonomy', ',', 'for', 'the', 'federalism', 'which', 'can', 'give', 'new', 'vigour', 'to', 'our', 'blood', '.']","[0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",0
+"['Dunfermline', '2', 'Aberdeen', '3']","[3, 0, 3, 0]",1
+"['The', 'biggest', 'losers', 'in', 'dollar', 'terms', 'were', 'British', 'gilts', ',', 'which', 'shed', '3.41', 'percent', ',', 'Canada', 'with', 'minus', '3.03', 'percent', 'and', 'Australia', 'at', 'minus', '1.54', 'percent', '.']","[0, 0, 0, 0, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0]",2
+"['Demand', 'deposits', 'rose', 'to', '855.8', 'million', 'kroons', 'from', '834.6', 'million', 'kroons', 'and', 'time', 'deposits', 'increased', 'to', '295.1', 'million', 'kroons', 'from', '285.3', 'million', 'kroons', '.']","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",2
+"['3.', 'Canada', 'I', '(', 'Pierre', 'Lueders', ',', 'Dave', 'MacEachern', ')', '1:45.94']","[0, 3, 4, 0, 1, 2, 0, 1, 2, 0, 0]",1
+"['18.', 'Barbara', 'Merlin', '(', 'Germany', ')', '38']","[0, 1, 2, 0, 5, 0, 0]",4
+"['British', 'Airways', ""'s"", 'initial', 'response', 'was', 'that', '""', 'unconditional', 'divestiture', 'of', 'slots', 'is', 'unprecedented', 'and', 'if', 'done', 'it', 'must', 'be', 'on', 'the', 'basis', 'of', 'fair', 'market', 'value', '.', '""']","[3, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",2
+"['Villeurbanne', '(', 'France', ')', '9', '6', '3', '15']","[3, 0, 5, 0, 0, 0, 0, 0]",4
+"['U.S.', 'blasts', 'release', 'of', 'convicted', 'bomber', '.']","[5, 0, 0, 0, 0, 0, 0]",0
+"['(', '(', 'Gilbert', 'Le', 'Gras', '204', '947', '3548', ')', ')']","[0, 0, 1, 2, 2, 0, 0, 0, 0, 0]",4
+"['Two', 'strikes', 'by', 'Efan', 'Ekoku', 'in', 'the', 'first', 'half', 'and', 'a', 'late', 'goal', 'from', 'fellow', 'forward', 'Dean', 'Holdsworth', 'secured', 'victory', 'for', 'Wimbledon', ',', 'who', 'trail', 'pacemakers', 'Arsenal', 'by', 'four', 'points', '.']","[0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 3, 0, 0, 0, 0, 3, 0, 0, 0, 0]",1
+"['""', 'Newmont', 'said', 'it', 'wants', 'to', 'discuss', 'a', 'friendly', 'deal', 'with', 'Santa', 'Fe', ',', 'which', 'is', 'almost', 'always', 'a', 'euphemism', 'for', ""'"", 'We', 'have', 'more', 'money', 'in', 'our', 'pocket', ',', ""'"", '""', 'said', 'an', 'arb', ',', 'referring', 'to', 'a', 'possible', 'sweetened', 'bid', 'from', 'Newmont', '.']","[0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0]",2
+"['League', 'duties', 'restricted', 'the', 'Barbarians', ""'"", 'selectorial', 'options', 'but', 'they', 'still', 'boast', '13', 'internationals', 'including', 'England', 'full-back', 'Tim', 'Stimpson', 'and', 'recalled', 'wing', 'Tony', 'Underwood', ',', 'plus', 'All', 'Black', 'forwards', 'Ian', 'Jones', 'and', 'Norm', 'Hewitt', '.']","[0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 1, 2, 0, 0, 0, 1, 2, 0, 0, 3, 4, 0, 1, 2, 0, 1, 2, 0]",1
+"['WELLINGTON', '1996-12-06']","[5, 0]",0
+"['CANBERRA', '1996-12-06']","[5, 0]",0
+"['5.', 'Isolde', 'Kostner', '(', 'Italy', ')', '157']","[0, 1, 2, 0, 5, 0, 0]",1
+"['In', 'a', 'stand', 'some', 'analysts', 'linked', 'to', 'controversy', 'over', 'Singapore', ""'s"", 'caning', 'of', 'an', 'American', 'teenager', 'for', 'vandalism', ',', 'then-U.S.', 'Trade', 'Representative', 'Mickey', 'Kantor', 'had', 'said', 'the', 'meeting', 'ought', 'to', 'be', 'held', 'where', 'the', 'WTO', 'was', 'going', 'to', 'be', 'headquartered', '.']","[0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 7, 0, 0, 0, 0, 7, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0]",2
+"['The', 'pilot', 'survived', 'the', 'crash', ',', 'but', 'the', 'driver', 'and', 'passengers', 'of', 'the', 'van', 'were', 'killed', '.']","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",4
+"['""', 'If', 'Africa', 'does', 'not', 'wish', 'to', 'lose', 'its', 'turn', 'we', 'have', 'to', 'act', 'fast', ',', '""', 'Diouf', 'said', '.', '""']","[0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",0
+"['Wrexham', '2', 'Scunthorpe', '2']","[3, 0, 3, 0]",1
+"['New', 'Jersey', '110', 'BOSTON', '108', '(', 'OT', ')']","[3, 4, 0, 3, 0, 0, 0, 0]",1
+"['Tampa', 'Bay', '2', 'LOS', 'ANGELES', '1']","[3, 4, 0, 3, 4, 0]",1
+"['VAIL', ',', 'Colorado', '1996-12-07']","[5, 0, 5, 0]",0
+"['NBA', 'BASKETBALL', '-', 'STANDINGS', 'AFTER', 'THURSDAY', ""'S"", 'GAMES', '.']","[3, 0, 0, 0, 0, 0, 0, 0, 0]",1
+"['ALBUQUERQUE', ',', 'N.M.', '1996-12-05']","[5, 0, 5, 0]",4
+"['LONDON', '1996-12-06']","[5, 0]",0
+"['Zimbabwe', 'hanged', 'a', 'convicted', 'murderer', 'on', 'Friday', ',', 'bringing', 'to', 'eight', 'the', 'number', 'of', 'executions', 'carried', 'out', 'in', 'the', 'past', 'year', '.']","[5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",1
+"['Moody', '10-1-25-2', ',', 'Blewett', '6.2-0-27-1', ',', 'Warne', '10-0-34-2', '(', 'w-1', ')', ',']","[1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0]",1
+"['7.', 'Madlen', 'Brigger-Summermatter', '(', 'Switzerland', ')', '1:18.23']","[0, 1, 2, 0, 5, 0, 0]",1
+"['Preston', '22', '7', '4', '11', '21', '27', '25']","[3, 0, 0, 0, 0, 0, 0, 0]",4
+"['But', 'critics', 'at', 'the', 'first', 'government-level', 'meeting', 'to', 'revise', 'copyright', 'laws', 'in', '25', 'years', 'said', 'the', 'officials', 'and', 'legislators', 'might', 'as', 'well', 'be', 'trying', 'to', 'police', 'the', 'ether', '.']","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",3
+"['SATURDAY', ',', 'DECEMBER', '7', 'SCHEDULE']","[0, 0, 0, 0, 0]",4
+"['""', 'The', 'perspective', 'on', 'growth', 'is', 'such', 'that', 'reasonably', 'we', 'can', 'think', 'that', 'somewhere', 'between', '65', 'and', '80', 'litres', 'per', 'year', 'is', 'certainly', 'reachable', ',', '""', 'van', 'Boxmeer', 'said', 'on', 'Polish', 'per-capita', 'beer', 'consumption', ',', 'currently', 'around', '40', 'litres', '.']","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0]",2
+"['The', 'official', 'TASR', 'news', 'agency', 'said', 'the', 'explosion', 'blew', 'out', 'all', 'ground', 'floor', 'windows', 'of', 'Frantisek', 'Gaulieder', ""'s"", 'family', 'home', 'in', 'Galanta', ',', 'western', 'Slovakia', ',', 'and', 'damaged', 'the', 'main', 'entrance', ',', 'but', 'no-one', 'was', 'injured', '.']","[0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 5, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",4
+"['But', 'with', 'the', 'treaty', ',', 'this', 'kind', 'of', 'fact', 'will', 'be', 'owned', 'and', 'subject', 'to', 'licensing', ',', '""', 'said', 'James', 'Love', ',', 'a', 'consumer', 'lobbyist', 'heading', 'the', 'Washington-based', 'Consumer', 'Project', 'on', 'Technology', '.']","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 7, 1, 2, 0, 0, 0]",3
+"['Peres', ',', 'who', 'was', 'ousted', 'in', 'May', 'by', 'rightwing', 'Israeli', 'leader', 'Benjamin', 'Netanyahu', ',', 'said', 'there', 'could', 'not', 'be', 'real', 'negotiations', 'with', 'Lebanon', '""', 'unless', 'it', 'will', 'stop', 'the', 'maltreatment', 'of', 'the', 'SLA', 'and', 'its', 'commanders', '.', '""']","[1, 0, 0, 0, 0, 0, 0, 0, 0, 7, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0]",0
+"['Earlier', 'this', 'year', 'South', 'African', 'Breweries', 'Ltd', '(', 'SAB', ')', 'bought', 'strategic', 'stakes', 'in', 'the', 'unlisted', 'Lech', 'and', 'Tychy', 'brewers', ',', 'which', 'together', 'hold', 'more', 'than', '20', 'percent', 'of', 'the', 'market', ',', 'and', 'Australia', ""'s"", 'Brewpole', 'BV', 'has', 'a', 'controlling', 'stake', 'in', 'Poland', ""'s"", 'larges', 't', 'brewery', ',', 'Elbrewery', 'Company', 'Ltd.', '(', 'EB', ')', '.']","[0, 0, 0, 3, 4, 4, 4, 0, 3, 0, 0, 0, 0, 0, 0, 0, 3, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 3, 4, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 3, 4, 4, 0, 3, 0, 0]",2
+"['The', 'pair', 'hammered', '36', 'boundaries', 'between', 'them', '.']","[0, 0, 0, 0, 0, 0, 0, 0]",1
+"['Bowyer', ',', 'who', 'moved', 'to', 'the', 'Yorkshire', 'club', 'in', 'August', 'for', '3.5', 'million', 'pounds', '(', '$', '5.8', 'million', ')', ',', 'was', 'expected', 'to', 'play', 'against', 'Middlesbrough', 'on', 'Saturday', '.']","[1, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0]",2
+"['A', 'French-owned', 'hotel', 'was', 'slightly', 'damaged', '.']","[0, 7, 0, 0, 0, 0, 0]",4
+"['Marseille', '20', '6', '8', '6', '18', '17', '26']","[3, 0, 0, 0, 0, 0, 0, 0]",1
+"['Berwick', '16', '1', '3', '12', '16', '41', '6']","[3, 0, 0, 0, 0, 0, 0, 0]",4
+"['""', 'Evaluating', 'all', 'the', 'conditions', 'of', 'the', 'case', 'the', 'court', 'thinks', 'the', 'sentence', 'should', 'be', 'lower', 'than', 'the', 'minimum', '(', '15', 'years', ')', ',', '""', 'Tirana', 'judge', 'Qazim', 'Gjonaj', 'added', '.']","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 1, 2, 0, 0]",4
+"['Lucky', 'Emdldm', '20/11/96', '5,000', 'Japan']","[7, 8, 0, 0, 5]",2
+"['Group', 'B']","[0, 0]",1
+"['29.', 'Patrizia', 'Bassis', '(', 'Italy', ')', '1:51.13']","[0, 1, 2, 0, 5, 0, 0]",1
+"['SOCCER', '-', 'ITALIAN', 'FIRST', 'DIVISION', 'MATCHES', 'THIS', 'WEEKEND', '.']","[0, 0, 7, 0, 0, 0, 0, 0, 0]",1
+"['NEW', 'JERSEY', '4', '10', '.286', '7', '1/2']","[3, 4, 0, 0, 0, 0, 0]",1
+"['Welsh', 'division', 'one']","[7, 0, 0]",1
+"['M.', 'Taylor', 'b', 'McLean', '29']","[1, 2, 0, 1, 0]",1
