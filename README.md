@@ -1,6 +1,6 @@
 # Training BERT(s) on CONLL dataset
 
-We will train various architectures and evaluate them on the same test set. The most curious result, I believe, is the result in Part 5.2.
+We will train various architectures and evaluate them on the same test set. The most curious result, I believe, is the result in Part 5.2, also shown below.
 
 <p align="center">
   <img src="imgs/ner_vs_docnerbert.jpg" alt="diagram" width="400"/>
