@@ -11,7 +11,7 @@ We will train various architectures and evaluate them on the same test set. The 
 In this part we will implement a BERT and train it on sizes of [10, 30, 100, 300, 1000]. Then the testing part will be done to measure the F1 scores, using two methods.
 
 1. Fixed test dataset of size 200
-2. Test set that has 20% of the size of the training set
+2. Test set that has 10% and 20% of the size of the training set
 
 The expectations was that before size 300, we may not see any precision (therefore not an F1 score), and it seems to be correct.
 
